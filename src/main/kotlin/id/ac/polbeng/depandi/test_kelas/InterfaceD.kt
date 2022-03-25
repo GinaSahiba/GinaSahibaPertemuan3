@@ -22,4 +22,4 @@ class MyClassB: A, B {
 fun main() {
     val obj = MyClassB()
     obj.demo()
-} 
+}
