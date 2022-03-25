@@ -17,4 +17,4 @@ fun main() {
 
     val checkedPerson = CheckedPerson()
     checkedPerson.age = -5  // Throws IllegalArgumentException : Age can not be negative
-} 
+}
