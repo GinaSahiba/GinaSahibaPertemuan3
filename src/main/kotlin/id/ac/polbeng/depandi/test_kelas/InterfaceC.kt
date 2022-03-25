@@ -30,4 +30,4 @@ fun main() {
     obj.demoY()
     obj.funcX()
     obj.funcY()
-} 
+}
