@@ -17,4 +17,4 @@ fun main() {
     println("Hashcode of boni: ${boni.hashCode()}")
     println("Hashcode of newBoni: ${newBoni.hashCode()}")
     println("Hashcode of meri: ${meri.hashCode()}")
-} 
+}
