@@ -20,4 +20,4 @@ fun main() {
     obj.demo()
     obj.func()
     println(obj.str)
-} 
+}
