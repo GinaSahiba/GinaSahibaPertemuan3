@@ -19,4 +19,4 @@ fun main() {
     myBase.think()
     var myDerived = MyDerived()
     myDerived.think()
-} 
+}
