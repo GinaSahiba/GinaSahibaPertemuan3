@@ -23,4 +23,4 @@ override fun draw() {
 fun main() {
     val square = Square()
     square.draw()
-} 
+}
