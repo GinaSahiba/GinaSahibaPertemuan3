@@ -12,4 +12,4 @@ fun main() {
 
 interface Human {
     fun think()
-} 
+}
