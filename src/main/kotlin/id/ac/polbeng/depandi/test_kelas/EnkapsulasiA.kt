@@ -17,6 +17,6 @@ class Employee(_id: Int, _name:String, _age:Int){
 }
 
 fun main() {
-    val emp = Employee(1101, "Jono", 25)
+    val emp = Employee(1101, "Jonoo", 25)
     println("Id : ${emp.id}, Nama : ${emp.name}, Umur : ${emp.age}")
 }
