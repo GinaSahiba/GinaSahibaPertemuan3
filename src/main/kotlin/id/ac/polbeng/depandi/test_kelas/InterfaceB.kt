@@ -19,4 +19,4 @@ data class EmployeeB(
 fun main(){
     val pegawai = EmployeeB("Ucok", "Baba", "Programmer")
     println(pegawai.name)
-} 
+}
