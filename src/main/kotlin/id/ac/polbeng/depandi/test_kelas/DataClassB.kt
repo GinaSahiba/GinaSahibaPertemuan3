@@ -1,7 +1,7 @@
 package id.ac.polbeng.depandi.test_kelas
 
 fun main() {
-    val boni = Student("Boni", 21)
+    val boni = Student("BoniI", 21)
     val newBoni = Student("Boni", 21)
     val meri = Student("Meri", 20)
     if (boni.equals(newBoni))
