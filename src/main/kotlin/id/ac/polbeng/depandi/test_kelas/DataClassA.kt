@@ -8,4 +8,4 @@ fun main() {
     println("Student Age is:  ${boni.age}")
     println("Student Name is: ${meri.name}")
     println("Student Age is:  ${meri.age}")
-} 
+}
