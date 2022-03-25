@@ -12,4 +12,4 @@ fun main() {
     println("Using outer object: ${outer.Inner().callMe()}")
     val inner = OuterA().Inner()
     println("Using inner object: ${inner.callMe()}")
-} 
+}
